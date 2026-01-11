@@ -1,0 +1,84 @@
+{
+    "doentes_atendidos": 284,
+    "tempo_simulacao": 480.0,
+    "tamanho_medio_fila": 470.24798387096774,
+    "tamanho_maximo_fila": 935,
+    "tempo_medio_espera": 221.6768282352013,
+    "tempo_maximo_espera": 498.4788511371785,
+    "tempo_medio_consulta": 15.562442869520673,
+    "tempo_maximo_consulta": 125.01988155431394,
+    "tempo_medio_na_clinica": 66.83034923446364,
+    "tempo_maximo_na_clinica": 494.3081310492652,
+    "estatisticas_por_medico": [
+        {
+            "medico": "m0",
+            "especialidade": "Cardiologia",
+            "doentes_atendidos": 22,
+            "tempo_ocupado": 457.23,
+            "percentagem_ocupacao": 95.26
+        },
+        {
+            "medico": "m1",
+            "especialidade": "Pediatria",
+            "doentes_atendidos": 26,
+            "tempo_ocupado": 448.47,
+            "percentagem_ocupacao": 93.43
+        },
+        {
+            "medico": "m2",
+            "especialidade": "Cardiologia",
+            "doentes_atendidos": 34,
+            "tempo_ocupado": 456.11,
+            "percentagem_ocupacao": 95.02
+        },
+        {
+            "medico": "m3",
+            "especialidade": "Geral",
+            "doentes_atendidos": 31,
+            "tempo_ocupado": 448.37,
+            "percentagem_ocupacao": 93.41
+        },
+        {
+            "medico": "m4",
+            "especialidade": "Geral",
+            "doentes_atendidos": 34,
+            "tempo_ocupado": 437.14,
+            "percentagem_ocupacao": 91.07
+        },
+        {
+            "medico": "m5",
+            "especialidade": "Teste",
+            "doentes_atendidos": 26,
+            "tempo_ocupado": 497.76,
+            "percentagem_ocupacao": 103.7
+        },
+        {
+            "medico": "m6",
+            "especialidade": "Geral",
+            "doentes_atendidos": 28,
+            "tempo_ocupado": 422.46,
+            "percentagem_ocupacao": 88.01
+        },
+        {
+            "medico": "m7",
+            "especialidade": "Geral",
+            "doentes_atendidos": 26,
+            "tempo_ocupado": 379.43,
+            "percentagem_ocupacao": 79.05
+        },
+        {
+            "medico": "m8",
+            "especialidade": "Geral",
+            "doentes_atendidos": 27,
+            "tempo_ocupado": 434.11,
+            "percentagem_ocupacao": 90.44
+        },
+        {
+            "medico": "m9",
+            "especialidade": "Pediatria",
+            "doentes_atendidos": 30,
+            "tempo_ocupado": 438.67,
+            "percentagem_ocupacao": 91.39
+        }
+    ]
+}
